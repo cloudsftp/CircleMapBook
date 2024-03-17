@@ -1,0 +1,26 @@
+#+title: Symmetry Zhusubaliyev 2022
+
+* Investigation of Period-Adding Structure with Similarity to Master Thesis
+This preiod-adding structure is not based on a function that shows symmetry.
+But it exhibits similar behavior to the period-adding structure that I explained in my masters thesis.
+
+** Behavior
+
+*** Old
+While the structure in my masters thesis followed the rules:
+- non-coex + non-coes -> coex
+- coex + non-coex -> non-coex
+- coex + coex -> non-coex (theorized)
+
+The reason being the cycles in the same model without symmetry having either an even or odd number of points and this property being the reason for coex or non-coex.
+
+*** New
+This structure follows different rules.
+They seem inverse to the rules defined previously.
+- coex + coex -> non-coex
+- coex + non-coex -> coex
+- non-coex + non-coex -> non-coex (theorized - no basis yet)
+
+For this reason I suspect that adding symmetry will perhaps make the rules much clearer.
+The same way that reducing the symmetry in my masters thesis made the rules of that function much clearer.
+(seems to be wrong)
